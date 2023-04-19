@@ -1,0 +1,23 @@
+.navtext a{
+    display: flex;
+    text-decoration: none;
+    text-decoration-color: black ;
+}
+.container-fluid print{
+    
+    position: relative;
+    height: 50px;
+    width: 50px;
+    justify-content: center;
+}
+
+.ecrit h2{
+  display: flex;
+    padding-top: 100px;
+   
+}
+.card-body{
+    display: flex;
+      text-decoration: none;
+    text-decoration-style: solid;
+}
